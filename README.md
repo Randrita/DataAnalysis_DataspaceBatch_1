@@ -4,6 +4,13 @@
 - clothing catogaries'
 
 # project summary
+>> Batch_Alpha
+>> Batch_Beta
+>> Batch_Gamma
+>> Excel
+>> Python
+>> numpy
+>> pandas
 
 # conclusion
 
