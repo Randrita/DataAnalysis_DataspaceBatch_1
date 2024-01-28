@@ -1,12 +1,12 @@
-#This is a data analysis course material
+# This is a data analysis course material
 
 - comparison of spend analysis between male and female
 - clothing catogaries'
 
-#project summary
+# project summary
 
-#conclusion
+# conclusion
 
-#connect
+# connect
 
-#project demo - 
+# project demo - 
