@@ -8,6 +8,13 @@ This repository has many topics like numpy , pandas and Data Analysis and other 
 - clothing catogaries'
 
 # project summary
+>> Batch_Alpha
+>> Batch_Beta
+>> Batch_Gamma
+>> Excel
+>> Python
+>> numpy
+>> pandas
 
 # conclusion
 
