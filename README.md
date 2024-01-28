@@ -1,3 +1,7 @@
+
+Conclusion:
+This repository has many topics like numpy , pandas and Data Analysis and other topics related to Data Analytics
+
 # This is a data analysis course material
 
 - comparison of spend analysis between male and female
@@ -12,3 +16,4 @@
 # project demo - 
 
 ![422664349_949299079899392_6683067677096218900_n](https://github.com/Randrita/DataAnalysis_DataspaceBatch_1/assets/60352282/8d9342d1-6617-45bc-89fd-23fb82600c4f )
+
