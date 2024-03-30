@@ -1,6 +1,0 @@
-Data Summarization
---------------------------------
-Pivot Table in Details with visualisation
-Slicers
-Dashboard creation
-Formatting Dashboard
